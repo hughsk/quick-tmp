@@ -1,7 +1,7 @@
 {
   "name": "quick-tmp",
   "description": "Quickly and synchronously retrieve a temporary directory name for you to use",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
